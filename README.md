@@ -1,1 +1,2 @@
- # gitdemo1  mdmdc from conflictbranch2
+ # gitdemo1  mdmdc from conflictbranch1
+
